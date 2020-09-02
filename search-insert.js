@@ -17,7 +17,7 @@ var searchInsert = function (nums, target) {
       result = nums.length;
     }
   }
-  console.log(result);
+  //   console.log(result);
   return result;
 };
 
